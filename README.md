@@ -51,7 +51,7 @@ Es un planeta terrestre, y es el planeta más pequeño de nuestro sistema solar 
 Es el planeta más caliente de nuestro sistema solar debido a su atmósfera espesa que atrapa el calor en un efecto invernadero desbocado. Gira lentamente en la dirección opuesta a la mayoría de los planetas, su tiempo de recorrido es de 225 días terrestres.   
 
 - Tierra:   
--- Es el único lugar conocido hasta ahora que está habitado por seres vivos. También es el único planeta de nuestro sistema solar con agua líquida en la superficie. 
+Es el único lugar conocido hasta ahora que está habitado por seres vivos. También es el único planeta de nuestro sistema solar con agua líquida en la superficie. 
 
 - Marte: 
 Es un mundo polvoriento, frío y desértico con una atmósfera muy fina. Hay pruebas contundentes de que Marte era, hace miles de millones de años, más húmedo y cálido, con una atmósfera más densa. Su tiempo de recorrido es de 1.88 años terrestres. 

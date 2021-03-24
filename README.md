@@ -1,4 +1,4 @@
-# Parcial_2_Sistema_Solar 
+# Parcial 2. SistemaSolar 
 
 ## Contenido 
 
@@ -51,13 +51,16 @@ Es un planeta terrestre, y es el planeta más pequeño de nuestro sistema solar 
 Es el planeta más caliente de nuestro sistema solar debido a su atmósfera espesa que atrapa el calor en un efecto invernadero desbocado. Gira lentamente en la dirección opuesta a la mayoría de los planetas, su tiempo de recorrido es de 225 días terrestres.   
 
 - Tierra:   
-Es el único lugar conocido hasta ahora que está habitado por seres vivos. También es el único planeta de nuestro sistema solar con agua líquida en la superficie. 
+-- Es el único lugar conocido hasta ahora que está habitado por seres vivos. También es el único planeta de nuestro sistema solar con agua líquida en la superficie. 
 
 - Marte: 
 Es un mundo polvoriento, frío y desértico con una atmósfera muy fina. Hay pruebas contundentes de que Marte era, hace miles de millones de años, más húmedo y cálido, con una atmósfera más densa. Su tiempo de recorrido es de 1.88 años terrestres. 
 
 - Júpiter  
-Tiene más del doble de masa que los otros planetas de nuestro sistema solar juntos. La Gran Mancha Roja del planeta gigante es una tormenta centenaria más grande que la Tierra. Tiene 79 lunas y su tiempo de recorrido es de 11.86 años. 
+Tiene más del doble de masa que los otros planetas de nuestro sistema solar juntos. La Gran Mancha Roja del planeta gigante es una tormenta centenaria más grande que la Tierra. Tiene 79 lunas y su tiempo de recorrido es de 11.86 años.
+
+- Saturno: 
+Saturno es único en nuestro sistema solar, esta adornado con un deslumbrante y complejo sistema de anillos helados. Existen otros planetas gigantes que tienen anillos, pero ninguno es tan espectacular como Saturno. Su tiempo de recorrido es de 29.45 años y tiene 62 lunas. 
 
 ### Integrantes 
 

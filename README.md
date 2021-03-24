@@ -5,3 +5,13 @@ __Se escribe en negrito__
 
 ### Contenido
 _cursiva_
+
+#### Integrantes 
+
+- Idalia Padilla 
+
+- César Escobedo 
+
+- Alejandra Esquer 
+
+- Daney Arvayo 

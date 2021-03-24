@@ -1,4 +1,4 @@
-# Parcial 2. SistemaSolar 
+# Parcial 2. Sistema Solar 
 
 ## Contenido 
 

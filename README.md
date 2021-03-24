@@ -22,8 +22,27 @@ Los diámetros son aproximados y estos tanto como el orden de los planetas y alg
 
 - [OverView](https://solarsystem.nasa.gov/planets/overview/) 
 
- 
-### Información Relevante 
+### Sistema Solar Representado en el proyecto 
+
+- Sol 
+
+- Mercurio 
+
+- Venus 
+
+- Tierra 
+
+- Marte 
+
+- Jupiter 
+
+- Saturno 
+
+- Urano 
+
+- Plutón 
+
+#### Información Relevante 
 
 - Mercurio:  
 Es un planeta terrestre, y es el planeta más pequeño de nuestro sistema solar y más cercano al Sol, es solo un poco más grande que la Luna de la Tierra. También es el planeta más rápido, gira alrededor del Sol cada 88 días terrestres.  
@@ -37,7 +56,7 @@ Es el único lugar conocido hasta ahora que está habitado por seres vivos. Tamb
 - Marte: 
 Es un mundo polvoriento, frío y desértico con una atmósfera muy fina. Hay pruebas contundentes de que Marte era, hace miles de millones de años, más húmedo y cálido, con una atmósfera más densa. Su tiempo de recorrido es de 1.88 años terrestres. 
 
-#### Integrantes 
+##### Integrantes 
 
 - Idalia Padilla 
 

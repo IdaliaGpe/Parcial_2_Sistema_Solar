@@ -24,23 +24,25 @@ Los diámetros son aproximados y estos tanto como el orden de los planetas y alg
 
 ### Sistema Solar 
 
-- ___Sol:___ Se utilizó un efecto de movimiento para lograr movilidad en la textura,  también se agregaron los efectos solicitados (textura, normal map, rim light).
+- ___Sol:___ Se utilizó un efecto de movimiento para lograr movilidad en la textura, también se agregaron los efectos solicitados (textura, normal map, rim light). Adición a eso se incluyó un movimiento en su propio eje, proporcionado al overview de los planetas que tiene la NASA. 
 
-- Mercurio 
+- ___Mercurio:___ Se agregaron los efectos solicitados (textura, normal map, rim light). Adición a eso se incluyó un movimiento en su propio eje y alrededor del sol, proporcionado al overview de los planetas que tiene la NASA.
 
-- Venus 
+- ___Venus:___ Se agregaron los efectos solicitados (textura, normal map, rim light). Adición a eso se incluyó un movimiento en su propio eje y alrededor del sol, proporcionado al overview de los planetas que tiene la NASA.
 
-- Tierra 
+- ___Tierra:___ Se utilizó un efecto de voronoi para dar el aspecto del movimiento de las nubes, también se agregaron los efectos solicitados (textura, normal map, rim light). Adición a eso se incluyó un movimiento en su propio eje y alrededor del sol, proporcionado al overview de los planetas que tiene la NASA.
 
-- Marte 
+- ___Luna:___ Se agregaron los efectos solicitados (textura, normal map, rim light). Adición a eso se incluyó un movimiento en su propio eje, alrededor del planeta tierra y alrededor del sol, proporcionado al overview de los planetas que tiene la NASA. 
 
-- Jupiter 
+- ___Marte:___ Se utilizó un efecto de voronoi para dar el aspecto de distorsión, también se agregaron los efectos solicitados (textura, normal map, rim light). Adición a eso se incluyó un movimiento en su propio eje y alrededor del sol, proporcionado al overview de los planetas que tiene la NASA. 
 
-- Saturno 
+- ___Jupiter:___ Se utilizó un efecto de voronoi para dar el aspecto gaseoso, también se agregaron los efectos solicitados (textura, normal map, rim light). Adición a eso se incluyó un movimiento en su propio eje y alrededor del sol, proporcionado al overview de los planetas que tiene la NASA. 
 
-- Urano 
+- ___Saturno:___ Se agregaron los efectos solicitados (textura, normal map, rim light). Adición a eso se incluyó un movimiento en su propio eje y alrededor del sol, proporcionado al overview de los planetas que tiene la NASA. 
 
-- Plutón
+- ___Urano:___ Se agregaron los efectos solicitados (textura, normal map, rim light). Adición a eso se incluyó un movimiento en su propio eje y alrededor del sol, proporcionado al overview de los planetas que tiene la NASA. 
+
+- ___Plutón:___ Se utilizó un efecto de voronoi para dar el aspecto de movimiento, también se agregaron los efectos solicitados (textura, normal map, rim light). Adición a eso se incluyó un movimiento en su propio eje, proporcionado y alrededor del sol, al overview de los planetas que tiene la NASA. 
 
 [Evidecnia](https://solarsystem.nasa.gov/planets/overview/) 
 

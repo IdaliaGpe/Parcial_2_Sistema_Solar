@@ -22,7 +22,7 @@ Los diámetros son aproximados y estos tanto como el orden de los planetas y alg
 
 - [OverView](https://solarsystem.nasa.gov/planets/overview/) 
 
-### Sistema Solar Representado en el proyecto 
+### Sistema Solar 
 
 - Sol 
 

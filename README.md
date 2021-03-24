@@ -24,7 +24,7 @@ Los diámetros son aproximados y estos tanto como el orden de los planetas y alg
 
 ### Sistema Solar 
 
-- Sol 
+- ___Sol:___ Se utilizó un efecto de movimiento para lograr movilidad en la textura,  también se agregaron los efectos solicitados (textura, normal map, rim light).
 
 - Mercurio 
 

@@ -56,6 +56,9 @@ Es el único lugar conocido hasta ahora que está habitado por seres vivos. Tamb
 - Marte: 
 Es un mundo polvoriento, frío y desértico con una atmósfera muy fina. Hay pruebas contundentes de que Marte era, hace miles de millones de años, más húmedo y cálido, con una atmósfera más densa. Su tiempo de recorrido es de 1.88 años terrestres. 
 
+- Júpiter  
+Tiene más del doble de masa que los otros planetas de nuestro sistema solar juntos. La Gran Mancha Roja del planeta gigante es una tormenta centenaria más grande que la Tierra. Tiene 79 lunas y su tiempo de recorrido es de 11.86 años. 
+
 ### Integrantes 
 
 - Idalia Padilla 
@@ -64,4 +67,4 @@ Es un mundo polvoriento, frío y desértico con una atmósfera muy fina. Hay pru
 
 - Alejandra Esquer 
 
-- Daney Arvayo 
+- Daney Arvayo

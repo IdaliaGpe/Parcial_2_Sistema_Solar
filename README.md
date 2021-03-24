@@ -68,6 +68,10 @@ Los diámetros son aproximados y estos tanto como el orden de los planetas y alg
 
 - [Información de los Planetas](https://solarsystem.nasa.gov/planets/overview/)
 
+- [Tamaños](https://solarsystem.nasa.gov/resources/686/solar-system-sizes/)
+
+- [Texturas](https://www.solarsystemscope.com/textures/) 
+
 ### Integrantes 
 
 - Idalia Padilla 

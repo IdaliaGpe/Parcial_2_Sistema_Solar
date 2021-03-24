@@ -44,7 +44,7 @@ Los diámetros son aproximados y estos tanto como el orden de los planetas y alg
 
 - ___Plutón:___ Se utilizó un efecto de voronoi para dar el aspecto de movimiento, también se agregaron los efectos solicitados (textura, normal map, rim light). Adición a eso se incluyó un movimiento en su propio eje, proporcionado y alrededor del sol, al overview de los planetas que tiene la NASA. 
 
-[Evidecnia](https://solarsystem.nasa.gov/planets/overview/) 
+[Evidencia](https://solarsystem.nasa.gov/planets/overview/) 
 
 ### Información Relevante 
 

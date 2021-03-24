@@ -58,6 +58,8 @@ Los diámetros son aproximados y estos tanto como el orden de los planetas y alg
 
 - Urano: El gigante de hielo, con 29 lunas es el séptimo planeta desde el Sol, gira en un ángulo de casi 90 grados desde el plano de su órbita. Esta inclinación única hace que parezca que gira de costado.
 
+- Neptuno: Otro gigante de hielo, es el octavo y más distante planeta principal que orbita nuestro Sol, es oscuro, frío y azotado por vientos supersónicos. Fue el primer planeta localizado mediante cálculos matemáticos, en lugar de por telescopio. 
+
 ### Integrantes 
 
 - Idalia Padilla 

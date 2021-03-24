@@ -60,7 +60,12 @@ Los diámetros son aproximados y estos tanto como el orden de los planetas y alg
 
 - ___Neptuno:___ Otro gigante de hielo, es el octavo y más distante planeta principal que orbita nuestro Sol, es oscuro, frío y azotado por vientos supersónicos. Fue el primer planeta localizado mediante cálculos matemáticos, en lugar de por telescopio.
 
-- ___Plutón:___ Es un mundo complejo de montañas de hielo y llanuras heladas. Una vez fue considerado el noveno planeta, Plutón es el miembro más grande del Cinturón de Kuiper y el más conocido de una nueva clase de mundos llamados planetas enanos o exoplanetas. Su tiempo de recorrido es de 248.89 años terrestres. 
+- ___Plutón:___ Es un mundo complejo de montañas de hielo y llanuras heladas. Una vez fue considerado el noveno planeta, Plutón es el miembro más grande del Cinturón de Kuiper y el más conocido de una nueva clase de mundos llamados planetas enanos o exoplanetas. Su tiempo de recorrido es de 248.89 años terrestres.
+
+### Referencias
+
+- [Información de los Planetas](https://solarsystem.nasa.gov/planets/overview/)
+
 ### Integrantes 
 
 - Idalia Padilla 

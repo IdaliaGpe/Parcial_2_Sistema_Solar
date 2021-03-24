@@ -1,17 +1,49 @@
-# Parcial_2_Sistema_Solar
+# Parcial_2_Sistema_Solar 
 
-## Index
-__Se escribe en negrito__
+## Contenido 
 
-### Contenido
-_cursiva_
+El siguiente proyecto consistió en la creación del sistema solar con __Shader Graph__ utilizando __Universal Render Pipeline__. 
+
+El proyecto incluye como norma general  
+
+Textura   
+
+Normal Map  
+
+Rim Light   
+
+Efectos Extra sobre la Superficie. 
+
+Utilizamos texturas basadas en datos de elevación e imágenes proporcionadas por la NASA. Estos colores y matices se ajustan a las fotos en color real (con la excepción de que estos colores se encuentran más saturados) realizadas por naves espaciales como el telescopio espacial Hubble. Y fueron obtenidas aquí: [Link](https://www.solarsystemscope.com/textures/) 
+
+Los diámetros son aproximados y estos tanto como el orden de los planetas y alguna otra información relévate sobre estos fueron obtenidos de:   
+
+[Link](https://solarsystem.nasa.gov/resources/686/solar-system-sizes/) 
+
+[Link](https://solarsystem.nasa.gov/planets/overview/) 
+
+ 
+
+### Información Relevante 
+
+Mercurio:  
+
+Es un planeta terrestre, y es el planeta más pequeño de nuestro sistema solar y más cercano al Sol, es solo un poco más grande que la Luna de la Tierra. También es el planeta más rápido, gira alrededor del Sol cada 88 días terrestres.  
+
+Venus:  
+
+Es el planeta más caliente de nuestro sistema solar debido a su atmósfera espesa que atrapa el calor en un efecto invernadero desbocado. Gira lentamente en la dirección opuesta a la mayoría de los planetas, su tiempo de recorrido es de 225 días terrestres.   
+
+Tierra:   
+
+Es el único lugar conocido hasta ahora que está habitado por seres vivos. También es el único planeta de nuestro sistema solar con agua líquida en la superficie. 
 
 #### Integrantes 
 
-- Idalia Padilla 
+Idalia Padilla 
 
-- César Escobedo 
+César Escobedo 
 
-- Alejandra Esquer 
+Alejandra Esquer 
 
-- Daney Arvayo 
+Daney Arvayo 

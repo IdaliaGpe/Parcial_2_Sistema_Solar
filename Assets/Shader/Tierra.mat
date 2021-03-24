@@ -119,6 +119,7 @@ Material:
     m_Floats:
     - Vector1_2054d20ece564cbfa50444e2333aaf45: 5
     - Vector1_b6ebe417aa5442a786cebf30747c49d5: 1
+    - Vector1_de1fb608385a473cae64b0ffac4884a2: 3
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -146,7 +147,7 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - Color_21af99ac21d949a6879c870c316bf052: {r: 1, g: 1, b: 1, a: 0}
+    - Color_21af99ac21d949a6879c870c316bf052: {r: 0.4627451, g: 0.29884624, b: 0, a: 0}
     - Color_410c1711ae9b4a689e3348b4a22e6501: {r: 1, g: 1, b: 1, a: 0}
     - Color_73051ac83f4a4bf3ad047ee610aeb108: {r: 1, g: 1, b: 1, a: 0}
     - Color_8558c8a7b2c74b95bd0031e6cc64ce6f: {r: 1, g: 1, b: 1, a: 1}
